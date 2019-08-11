@@ -1,0 +1,72 @@
+*{
+			margin: 0;
+}
+header{
+	padding: 30px 0;
+	background: lightgrey;
+	color: red;
+	text-align: center;
+	}
+
+/*Float & Clear Property use*/
+.background {
+	background: yellow;
+	height: 300px;
+}
+.bg1 {
+	float: left;
+	width: 50%;
+	background: gainsboro;
+	margin-top: 30px;
+}
+.bg2 {
+	float: left;
+	width: 50%;
+	background: pink;
+	margin-top: 30px;
+	padding: 35px 0;
+}
+.bg3 {
+	clear: both;
+	background: green;
+	color: white;
+	padding: 15px 10px;
+}
+/*Float & Clear Property use*/
+/*list Property use*/
+.ulist {
+	margin-bottom: 10px;
+	cursor: wait;
+}
+.ulist ul {
+	list-style: square inside;
+}
+.ulist ul li{}
+.olist {
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+.olist ol{
+	list-style: upper-roman;
+}
+.olist ol li{}
+.olist2{
+	margin-bottom: 10px;
+}
+.olist2 ol {
+	list-style: inside url(img/13.png);
+	cursor: crosshair;
+}
+.olist2 ol li {
+	font-size: 35px;
+	padding: 2px 0;
+}
+/*list Property use*/
+footer{
+	padding: 20px 0;
+	color: #ffffff;
+	background: teal;
+	}
+footer p{
+	text-align: center;
+		}
