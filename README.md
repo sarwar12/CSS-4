@@ -1,7 +1,7 @@
 # CSS-4
 
 ### Property & Values:
-	#### List Property::
+#### List Property::
 		list-style-type: disc/ circle/ square/ none; ( For unorderlist)
 			      decimal/ decimal-leading-zero/ lower-alpha/ upper-alpha/ lower-roman/ upper-roman/ none; ( For orderlist)
 		list-style-position: outside; (by default)
@@ -10,14 +10,14 @@
 	ShortHand Property:::
 		list: style-type|positon|image;
 		list: square inside url(imi.jpg);
-	#### Cursor Property::
+#### Cursor Property::
 		Cursor: wait|crosshair|help|pointer|text|none|context-menu|cell|vertical-text|aliasn-resize|
 		                no-drop|not-allowed|all-scroll|col-resize|row-resize|n-resize;
-	#### Float Property::
+#### Float Property::
 		Float: left; (floating left side)
 		           right; (floating right side)
 		           none; (this is default value dont float any value)
-	#### Clear Property::
+#### Clear Property::
 		Clear: both; (use this value dont floated bote side)
 		           left; (use this value dont floated left side)
 		           right; (use this value dont floated right side)
