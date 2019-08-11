@@ -44,3 +44,6 @@
 
 	7) Attribute Selector :
     	    ( EX: input[type=text]{} )     input[type=text] { color:red; }
+
+## G SARWAR
+#### Web Instructor
